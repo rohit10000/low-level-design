@@ -6,7 +6,7 @@
   <b><i><p>Encapsulation</p></i></b>
 </div>
 
-![alt text](./images/encapsulation.png)
+![alt text](./lld-in-java/images/encapsulation.png)
 
 <div>
 <p>
