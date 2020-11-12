@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1597904240 source:/home/rohit/Music/lld/builder/main.cpp
+	<iostream>
+	<Builder.h>
+	<Bird.h>
+
+1597904966 /home/rohit/Music/lld/builder//Builder.h
+	<iostream>
+	"Bird.h"
+
+1597904635 /home/rohit/Music/lld/builder//Bird.h
+	"Builder.h"
+	<iostream>
+
+1597904761 source:/home/rohit/Music/lld/builder/Builder.cpp
+	"Builder.h"
+
+1597905142 /home/rohit/Music/lld/builder/Builder.h
+	<iostream>
+	"Bird.h"
+
+1597904635 /home/rohit/Music/lld/builder/Bird.h
+	"Builder.h"
+	<iostream>
+

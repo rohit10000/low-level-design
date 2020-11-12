@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1597005633 source:/home/rohit/Music/lld/lld_in_c++/src/Bird.cpp
+	"Bird.h"
+
+1597001260 /home/rohit/Music/lld/lld_in_c++/include/Bird.h
+	<bits/stdc++.h>
+
+1597005633 source:/home/rohit/Music/lld/lld_in_c++/src/Hen.cpp
+	"Hen.h"
+
+1597005633 /home/rohit/Music/lld/lld_in_c++/include/Hen.h
+	<Bird.h>
+	<iostream>
+
+1597005481 source:/home/rohit/Music/lld/lld_in_c++/main.cpp
+	<iostream>
+	"Bird.h"
+	"Eagle.h"
+	"Hen.h"
+	"Seller.h"
+
+1597004098 /home/rohit/Music/lld/lld_in_c++/include/Eagle.h
+	<Bird.h>
+	<iostream>
+
+1597004098 source:/home/rohit/Music/lld/lld_in_c++/src/Eagle.cpp
+	"Eagle.h"
+
+1597005666 /home/rohit/Music/lld/lld_in_c++/Seller.h
+	"Bird.h"
+	<iostream>
+
+1597005571 source:/home/rohit/Music/lld/lld_in_c++/Seller.cpp
+	"Seller.h"
+	"Bird.h"
+
