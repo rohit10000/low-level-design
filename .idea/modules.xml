@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/AddValidation/AddValidation.iml" filepath="$PROJECT_DIR$/lld-in-java/AddValidation/AddValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Bird/Bird.iml" filepath="$PROJECT_DIR$/lld-in-java/Bird/Bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Assignments/BookMyShow/BookMyShow.iml" filepath="$PROJECT_DIR$/lld-in-java/Assignments/BookMyShow/BookMyShow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Builder/Builder.iml" filepath="$PROJECT_DIR$/lld-in-java/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Cascade/Cascade.iml" filepath="$PROJECT_DIR$/lld-in-java/Cascade/Cascade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Factory/Factory.iml" filepath="$PROJECT_DIR$/lld-in-java/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/low_level_design.iml" filepath="$PROJECT_DIR$/.idea/low_level_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/mongoTest/mongoTest.iml" filepath="$PROJECT_DIR$/lld-in-java/mongoTest/mongoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld-in-java/Assignments/movieBookingSystem/movieBookingSystem.iml" filepath="$PROJECT_DIR$/lld-in-java/Assignments/movieBookingSystem/movieBookingSystem.iml" />
+    </modules>
+  </component>
+</project>
