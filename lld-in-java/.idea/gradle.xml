@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AddValidation/out/production/AddValidation/driver-core" />
+        <option name="gradleJvm" value="14" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AddValidation/out/production/AddValidation/driver-core" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/AddValidation/out/production/AddValidation/driver-sync" />
+        <option name="gradleJvm" value="14" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/AddValidation/out/production/AddValidation/driver-sync" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

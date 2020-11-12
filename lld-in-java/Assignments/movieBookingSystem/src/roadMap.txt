@@ -1,0 +1,37 @@
+Movie booking system
+    -system on which you can go online and book the show
+
+A) Requirenment gathering
+
+- Customer can search movie in his city.
+- Customer can search movie on the basis of name, genres, etc.
+- Customer can see to the list of movie.
+- On selecting movie he can see to list of theaters in which movie shows are available.
+- On selecting theatre customer can see to the list of halls in which movies are played.
+- Halls should also show the list of shows of the selected movie.
+- Customer can select multiple seats in a show.
+- Customer can book his seat by making payment.
+- Customer can apply coupon on his payment.
+- System should send ticket information on customers email-id.
+- System should also send notification before few hours of the shw start.
+- Customer can see to his booking history.
+- Customer can cancel his booking and system should initiate the refund.
+- Admin can edit/remove/update any theatre, show and hall details.
+- Admin can block a customer.
+
+B) Use cases
+Actors                   Use case
+
+*guest              - can search the movie based on names, can see to list of movies, select theatre, select show, login
+                     signup
+
+* Customer          - everything that guest can do, can also select the seats for the show, book the ticket by making payment
+                    and applying coupon, cancel booking, see booking logs
+                    
+* Admin            - edit/remove/update any theatre or show or hall details, can block a customer
+
+* System           - Can send ticket to customers email, initiate refund after cancelling booking, notifications
+
+
+
+
